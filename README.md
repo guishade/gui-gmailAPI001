@@ -1,4 +1,7 @@
 # gui-gmailAPI001
+example based in:
+https://developers.google.com/gmail/api/quickstart/php
+
 - create proyect
 - enable GmailAPI
 - add the URI to the php file that make the call to the server and has to get the response, in this example case is quickstart.php
